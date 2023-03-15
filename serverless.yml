@@ -1,4 +1,4 @@
-service: whatsapp-webhooks
+service: webhooks
 frameworkVersion: '2'
 
 provider:
